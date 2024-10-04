@@ -49,3 +49,4 @@ misc/demangler
 misc/symbols
 misc/dbginfo
 misc/bench
+/venv

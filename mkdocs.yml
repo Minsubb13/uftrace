@@ -8,70 +8,70 @@ plugins:
 
 nav:
   - what is uftrace?:
-    - Overview: docs/wiki/Home.md
+    - Overview: wiki/Home.md
   - Getting Started:
-    - Tutorial: docs/wiki/Tutorial.md
-    - Arguments: docs/wiki/Arguments.md
-    - Contributing: CONTRIBUTING.md
+    - Tutorial: wiki/Tutorial.md
+    - Arguments: wiki/Arguments.md
+    - Contributing: en/CONTRIBUTING.md
   - uftrace User Manuals:
     - Sub Commands:
-      - overview: docs/uftrace.md
-      - record: docs/uftrace-record.md
-      - replay: docs/uftrace-replay.md
-      - live: docs/uftrace-live.md
-      - report: docs/uftrace-report.md
-      - info: docs/uftrace-info.md
-      - dump: docs/uftrace-dump.md
-      - recv: docs/uftrace-recv.md
-      - graph: docs/uftrace-graph.md
-      - script: docs/uftrace-script.md
-      - tui: docs/uftrace-tui.md
+      - overview: en/uftrace.md
+      - record: en/uftrace-record.md
+      - replay: en/uftrace-replay.md
+      - live: en/uftrace-live.md
+      - report: en/uftrace-report.md
+      - info: en/uftrace-info.md
+      - dump: en/uftrace-dump.md
+      - recv: en/uftrace-recv.md
+      - graph: en/uftrace-graph.md
+      - script: en/uftrace-script.md
+      - tui: en/uftrace-tui.md
   - Development:
-    - Data Format: docs/wiki/Data-Format.md
-    - TODO Items: docs/wiki/TODO.md
-    - Testing: docs/wiki/Testing.md
-    - Debug Messages: docs/wiki/Debug-message-guidelines.md
-    - Code Coverage: docs/wiki/uftrace-code-coverage.md
-    - Korean man page: docs/wiki/Korean-man-page.md
+    - Data Format: wiki/Data-Format.md
+    - TODO Items: wiki/TODO.md
+    - Testing: wiki/Testing.md
+    - Debug Messages: wiki/Debug-message-guidelines.md
+    - Code Coverage: wiki/uftrace-code-coverage.md
+    - Korean man page: wiki/Korean-man-page.md
   - Practical Use Cases:
     - uftrace for:
-      - Apache HTTP Server: docs/wiki/uftrace-for-Apache-HTTP-Server.md
-      - bpftrace: docs/wiki/uftrace-for-bpftrace.md
-      - chromium: docs/wiki/uftrace-for-chromium.md
-      - Clang LLVM: docs/wiki/uftrace-for-Clang-LLVM.md
-      - cpython: docs/wiki/uftrace-for-cpython.md
-      - CUDA: docs/wiki/uftrace-for-CUDA.md
-      - cURL: docs/wiki/uftrace-for-cURL.md
-      - deno: docs/wiki/uftrace-for-deno.md
-      - Erlang BEAM VM: docs/wiki/uftrace-for-Erlang-BEAM-VM.md
-      - ffmpeg: docs/wiki/uftrace-for-ffmepg.md
-      - gcc compiler: docs/wiki/uftrace-for-gcc-compiler.md
-      - Git: docs/wiki/uftrace-for-Git.md
-      - GSreamer: docs/wiki/uftrace-for-GStreamer.md
-      - HM: docs/wiki/uftrace-for-HM.md
-      - JM: docs/wiki/uftrace-for-JM.md
-      - LevelDB RocksDB with YCSB: docs/wiki/uftrace-for-LevelDB-RocksDB-with-YCSB.md
-      - Libav: docs/wiki/uftrace-for-Libav.md
-      - libjpeg-turbo: docs/wiki/uftrace-for-libjpeg-turbo.md
-      - LXC: docs/wiki/uftrace-for-LXC.md
-      - MySQL InnoDB: docs/wiki/uftrace-for-MySQL-InnoDB.md
-      - node: docs/wiki/uftrace-for-node.md
-      - OpenCV: docs/wiki/uftrace-for-OpenCV.md
-      - parallel sort algorithm: docs/wiki/uftrace-for-parallel-sort-algorithm.md
-      - POCO: docs/wiki/uftrace-for-POCO.md
-      - Radare2: docs/wiki/uftrace-for-Radare2.md
-      - Redis: docs/wiki/uftrace-for-Redis.md
-      - RustPython: docs/wiki/uftrace-for-RustPython.md
-      - SpiderMonkey: docs/wiki/uftrace-for-SpiderMonkey.md
-      - Squid: docs/wiki/uftrace-for-Squid.md
-      - TCPDUMP: docs/wiki/uftrace-for-TCPDUMP.md
-      - telegram: docs/wiki/uftrace-for-telegram.md
-      - TTCN3: docs/wiki/uftrace-for-TTCN3.md
-      - VTM: docs/wiki/uftrace-for-VTM.md
-      - Wireshark: docs/wiki/uftrace-for-WireShark.md
-      - yara: docs/wiki/uftrace-for-yara.md
-      - Android: docs/wiki/uftrace-for-Android.md
-      - yocto: docs/wiki/uftrace-for-yocto.md
+      - Apache HTTP Server: wiki/uftrace-for-Apache-HTTP-Server.md
+      - bpftrace: wiki/uftrace-for-bpftrace.md
+      - chromium: wiki/uftrace-for-chromium.md
+      - Clang LLVM: wiki/uftrace-for-Clang-LLVM.md
+      - cpython: wiki/uftrace-for-cpython.md
+      - CUDA: wiki/uftrace-for-CUDA.md
+      - cURL: wiki/uftrace-for-cURL.md
+      - deno: wiki/uftrace-for-deno.md
+      - Erlang BEAM VM: wiki/uftrace-for-Erlang-BEAM-VM.md
+      - ffmpeg: wiki/uftrace-for-ffmepg.md
+      - gcc compiler: wiki/uftrace-for-gcc-compiler.md
+      - Git: wiki/uftrace-for-Git.md
+      - GSreamer: wiki/uftrace-for-GStreamer.md
+      - HM: wiki/uftrace-for-HM.md
+      - JM: wiki/uftrace-for-JM.md
+      - LevelDB RocksDB with YCSB: wiki/uftrace-for-LevelDB-RocksDB-with-YCSB.md
+      - Libav: wiki/uftrace-for-Libav.md
+      - libjpeg-turbo: wiki/uftrace-for-libjpeg-turbo.md
+      - LXC: wiki/uftrace-for-LXC.md
+      - MySQL InnoDB: wiki/uftrace-for-MySQL-InnoDB.md
+      - node: wiki/uftrace-for-node.md
+      - OpenCV: wiki/uftrace-for-OpenCV.md
+      - parallel sort algorithm: wiki/uftrace-for-parallel-sort-algorithm.md
+      - POCO: wiki/uftrace-for-POCO.md
+      - Radare2: wiki/uftrace-for-Radare2.md
+      - Redis: wiki/uftrace-for-Redis.md
+      - RustPython: wiki/uftrace-for-RustPython.md
+      - SpiderMonkey: wiki/uftrace-for-SpiderMonkey.md
+      - Squid: wiki/uftrace-for-Squid.md
+      - TCPDUMP: wiki/uftrace-for-TCPDUMP.md
+      - telegram: wiki/uftrace-for-telegram.md
+      - TTCN3: wiki/uftrace-for-TTCN3.md
+      - VTM: wiki/uftrace-for-VTM.md
+      - Wireshark: wiki/uftrace-for-WireShark.md
+      - yara: wiki/uftrace-for-yara.md
+      - Android: wiki/uftrace-for-Android.md
+      - yocto: wiki/uftrace-for-yocto.md
 
   - Reference:
     - COPYING: COPYING
