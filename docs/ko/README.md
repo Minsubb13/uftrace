@@ -365,4 +365,4 @@ flame-graph 형식의 결과 또한 지원한다. 해당 데이터는 `uftrace d
 
 라이선스
 =======
-uftrace 는 GPL v2. 라이선스 하에 배포되며 자세한 내용은 [COPYING](../../COPYING) 파일에서 확인할 수 있다.
+uftrace 는 GPL v2. 라이선스 하에 배포되며 자세한 내용은 [COPYING](COPYING) 파일에서 확인할 수 있다.
