@@ -15,7 +15,7 @@ nav:
     - Contributing: CONTRIBUTING.md
   - uftrace User Manuals:
     - Sub Commands:
-      - overview: doc/docs/docs/uftrace.md
+      - overview: doc/docs/uftrace.md
       - record: doc/docs/uftrace-record.md
       - replay: doc/docs/uftrace-replay.md
       - live: doc/docs/uftrace-live.md
