@@ -15,17 +15,17 @@ nav:
     - Contributing: CONTRIBUTING.md
   - uftrace User Manuals:
     - Sub Commands:
-      - overview: doc/docs/uftrace.md
-      - record: doc/docs/uftrace-record.md
-      - replay: doc/docs/uftrace-replay.md
-      - live: doc/docs/uftrace-live.md
-      - report: doc/docs/uftrace-report.md
-      - info: doc/docs/uftrace-info.md
-      - dump: doc/docs/uftrace-dump.md
-      - recv: doc/docs/uftrace-recv.md
-      - graph: doc/docs/uftrace-graph.md
-      - script: doc/docs/uftrace-script.md
-      - tui: doc/docs/uftrace-tui.md
+      - overview: doc/uftrace.md
+      - record: doc/uftrace-record.md
+      - replay: doc/uftrace-replay.md
+      - live: doc/uftrace-live.md
+      - report: doc/uftrace-report.md
+      - info: doc/uftrace-info.md
+      - dump: doc/uftrace-dump.md
+      - recv: doc/uftrace-recv.md
+      - graph: doc/uftrace-graph.md
+      - script: doc/uftrace-script.md
+      - tui: doc/uftrace-tui.md
   - Development:
     - Data Format: doc/wiki/Data-Format.md
     - TODO Items: doc/wiki/TODO.md
