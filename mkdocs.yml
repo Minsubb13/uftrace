@@ -12,20 +12,20 @@ nav:
   - Getting Started:
     - Tutorial: wiki/Tutorial.md
     - Arguments: wiki/Arguments.md
-    - Contributing: en/CONTRIBUTING.md
+    - Contributing: CONTRIBUTING.md
   - uftrace User Manuals:
     - Sub Commands:
-      - overview: en/uftrace.md
-      - record: en/uftrace-record.md
-      - replay: en/uftrace-replay.md
-      - live: en/uftrace-live.md
-      - report: en/uftrace-report.md
-      - info: en/uftrace-info.md
-      - dump: en/uftrace-dump.md
-      - recv: en/uftrace-recv.md
-      - graph: en/uftrace-graph.md
-      - script: en/uftrace-script.md
-      - tui: en/uftrace-tui.md
+      - overview: uftrace.md
+      - record: uftrace-record.md
+      - replay: uftrace-replay.md
+      - live: uftrace-live.md
+      - report: uftrace-report.md
+      - info: uftrace-info.md
+      - dump: uftrace-dump.md
+      - recv: uftrace-recv.md
+      - graph: uftrace-graph.md
+      - script: uftrace-script.md
+      - tui: uftrace-tui.md
   - Development:
     - Data Format: wiki/Data-Format.md
     - TODO Items: wiki/TODO.md
