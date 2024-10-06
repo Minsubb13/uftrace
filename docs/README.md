@@ -54,7 +54,7 @@ With the recorded data, uftrace can:
 It supports many commands and filters such as filtering by function call
 duration for analysis of program execution and performance.
 
-![uftrace-live-demo](doc/uftrace-live-demo.gif)
+![uftrace-live-demo](docs/uftrace-live-demo.gif)
 
  * Homepage: https://github.com/namhyung/uftrace
  * Tutorial: https://github.com/namhyung/uftrace/wiki/Tutorial
@@ -309,7 +309,7 @@ The `dump` command shows raw output of each trace record.  You can see the resul
 in the Chrome browser, once the data is processed with `uftrace dump --chrome`.
 Below is a trace of clang (LLVM) compiling a small C++ template metaprogram.
 
-[![uftrace-chrome-dump](doc/uftrace-chrome.png)](https://uftrace.github.io/dump/clang.tmp.fib.html)
+[![uftrace-chrome-dump](docs/uftrace-chrome.png)](https://uftrace.github.io/dump/clang.tmp.fib.html)
 
 It also supports flame-graph output as well.  The data can be processed with
 `uftrace dump --flame-graph` and passed to
