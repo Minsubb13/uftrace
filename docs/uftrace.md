@@ -2,6 +2,8 @@
 % Namhyung Kim <namhyung@gmail.com>
 % Sep, 2018
 
+Test github action documentation.yaml
+
 NAME
 ====
 uftrace - Function graph tracer for userspace
