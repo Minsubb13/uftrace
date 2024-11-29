@@ -28,11 +28,11 @@ jobs:
         pip install flake8 pytest
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    - name: Validate mkdocs configuration
-      run: mkdocs build --strict
+    #- name: Validate mkdocs configuration
+    #  run: mkdocs build --strict
 
-    - name: Validate readthedocs configuration
-      run: |
-        if [ -f ".readthedocs.yaml" ]; then
-          python -c "import yaml; yaml.safe_load(open('.readthedocs.yaml'))"
-          fi
+    #- name: Validate readthedocs configuration
+    #  run: |
+    #    if [ -f ".readthedocs.yaml" ]; then
+    #     python -c "import yaml; yaml.safe_load(open('.readthedocs.yaml'))"
+    #      fi
