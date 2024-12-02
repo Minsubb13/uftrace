@@ -68,10 +68,10 @@ nav:
       - telegram: wiki/uftrace-for-telegram.md
       - TTCN3: wiki/uftrace-for-TTCN3.md
       - VTM: wiki/uftrace-for-VTM.md
-      - Wireshark: wiki/uftrace-for-WireShark.md
+      - Wireshark: wiki/uftrace-for-Wireshark.md
       - yara: wiki/uftrace-for-yara.md
-      - Android: wiki/uftrace-for-Android.md
-      - yocto: wiki/uftrace-for-yocto.md
+      - Android: wiki/uftrace-on-Android.md
+      - yocto: wiki/uftrace-on-yocto.md
 
   - Reference:
     - COPYING: COPYING
